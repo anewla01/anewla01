@@ -5,8 +5,11 @@ from 🌱 to 🌳 - current areas of interest
 - Infrastructure
 - Data Engineering
 - Data Science
+- Meta cognition and learning how to learn
 
 
+<h3> disregard public repos -- its mostly random </h3>
+most of my work tends to be private. public projects TBD 🙃
 
 <p align="center">
 <a href="https://www.kuralabs.org/"><img alt="Website" src="https://img.shields.io/badge/Website-www.kuralabs.org-orange?style=flat-square&logo=google-chrome"></a>
