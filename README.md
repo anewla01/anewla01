@@ -11,6 +11,9 @@ from 🌱 to 🌳 - current areas of interest
 <h3> disregard public repos -- its mostly random </h3>
 most of my work tends to be private. public projects TBD 🙃
 
+</br>
+</br>
+
 <p align="center">
 <a href="https://www.kuralabs.org/"><img alt="Website" src="https://img.shields.io/badge/Website-www.kuralabs.org-orange?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/andre-newland/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Andre%20Newland-orange?style=flat-square&logo=linkedin"></a>
