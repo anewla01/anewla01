@@ -1,16 +1,15 @@
-## Hi there 👋
+18
+<h2> welcome </h2>
 
-<!--
-**anewla01/anewla01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+from 🌱 to 🌳 - current areas of interest
+- Distributed Systems
+- Infrastructure
+- Data Engineering
+- Data Science
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://www.kuralabs.org/"&gt;&lt;img alt="Website" src="https://img.shields.io/badge/Website-www.kuralabs.org-orange?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/andre-newland/"&gt;&lt;img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Joseph%20White-orange?style=flat-square&logo=linkedin"></a>
+<a href="anewla01@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anewla01@gmail.com-orange?style=flat-square&logo=gmail"></a>
+</p>
